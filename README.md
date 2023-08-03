@@ -33,7 +33,7 @@ npm i
 
 ## Usage
 Here is an example of how thee app is used
-![alt text](./assets/Note_Taker.gif)
+![alt text](./Assets/Note_Taker.gif)
 
 here is the repo
 https://github.com/reflexson/note-taker
