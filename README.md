@@ -39,7 +39,7 @@ here is the repo
 https://github.com/reflexson/note-taker
 
 here is the deployed site to heroku
-
+https://thawing-beyond-64194-fbf58613fa04.herokuapp.com/
 
 
 ## License
